@@ -8,7 +8,8 @@ public class new : MonoBehaviour {
 	void Start () {
     Debug.Log("Test");
     Debug.Log("Ajout à la suite pour tester");
-	}
+    Debug.Log("Ajout à la suite pour tester22");
+}
 	
 	// Update is called once per frame
 	void Update () {
